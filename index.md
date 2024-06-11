@@ -1,6 +1,6 @@
 <figure>
 <center>
-<img src="{{site.url}}/img/famer.jpg" height=500>
+<img src="{{site.url}}/img/famer-ffi-logo.jpg" height=500>
 <figcaption>
 </center>
 </figure>
