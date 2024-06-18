@@ -17,7 +17,12 @@ The project will run for three years and will be coordinated by the University o
 - Demonstrate integration with multi-party agile work.
 
 
+<figure>
+<center>
+<img src="{{site.url}}/img/Workpackage structure in relation to FAMER ambition..png" height=200>
+</center>
+</figure>
 
- ![Workpackage structure in FAMER ](/img/Workpackage structure in relation to FAMER ambition..png) 
+
 
 We believe that the ability to effectively agree on requirements across multiple parties will help increase traffic safety in a future that increasingly relies on automated vehicle technology. You can follow this project on the FAMER homepage at https://ffi-famer.github.io/ and contact Eric Knauss at eric.knauss@gu.se> for more information.
