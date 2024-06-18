@@ -43,7 +43,7 @@ WP5: Project Management and Dissemination: Zenseact supports project management 
 
 
 
-#  #  ![ Volvo Cars ](img/)
+# ![ Volvo Cars ](img/volvo.png)
 
 Volvo Cars plays a critical role in the FAMER project, contributing to and leading various work packages. Here is an overview of their involvement:
 
