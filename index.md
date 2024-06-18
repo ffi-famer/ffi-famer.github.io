@@ -24,7 +24,7 @@ The project will run for three years and will be coordinated by the University o
 
 ## Work package structure of the FAMER 
 
-![A beautiful scenery](img/FAMER.jpg)
+![Work package structure of the FAMER ](img/FAMER.jpg)
 
 
 
