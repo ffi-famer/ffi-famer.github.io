@@ -23,13 +23,13 @@ WP4: Multi-Party Requirements Cognition: UGOT contributes by compiling FAMER res
 
 
 
-#  ![GU logo ](img/zenseactlogo.png)
+#  ![ logo ](img/zenseactlogo.png)
 
 Zenseact plays a significant role in the FAMER project, contributing to multiple work packages with a focus on integrating collaborative requirements engineering across the automotive value chain. Their involvement includes:
 
 **Work Package Leadership**  
 
-WP4: Multi-Party Requirements Cognition: Zenseact leads this work package, defining how FAMER contributions can positively impact the automotive value chain and enable the distributed building of requirements knowledge across multiple partners in typical automotive scaled agile systems development. They are responsible for integrating FAMER results into agile automotive systems development and evaluating feasibility and benefits based on a concrete case study .
+WP4: Multi-Party Requirements Cognition: Zenseact leads this work package, defining how FAMER contributions can positively impact the automotive value chain and enable the distributed building of requirements knowledge across multiple partners in typical automotive-scaled agile systems development. They are responsible for integrating FAMER results into agile automotive systems development and evaluating feasibility and benefits based on a concrete case study .
 
 **Participation in Other Work Packages** 
 
@@ -43,7 +43,23 @@ WP5: Project Management and Dissemination: Zenseact supports project management 
 
 
 
-# Volvo Cars
+#  #  ![ Volvo Cars ](img/)
+
+Volvo Cars plays a critical role in the FAMER project, contributing to and leading various work packages. Here is an overview of their involvement:
+
+**Work Package Leadership**
+
+WP1: Shared Language: Volvo Cars leads this work package, establishing a shared language and foundation for the project. This includes compiling a domain description, defining a reference information model, and creating a reference system architecture description for perception systems​.
+
+**Participation in Other Work Packages**
+
+WP2: Requirements Representation: Volvo Cars collaborates with other partners to develop requirements representations, define methods for specifying both functional and non-functional requirements, and establish a traceability information model that connects various requirements across the development lifecycle​.
+
+WP3: Annotation Requirements Verification and Validation: Volvo Cars works with Kognic and Zenseact to define annotation needs, create annotated data, and validate whether the annotated data meets system-level goals. This ensures that annotations contribute to fulfilling safety and other high-level requirements​.
+
+WP4: Multi-Party Requirements Cognition: Volvo Cars supports Zenseact in this work package by conducting focus group research and integrating FAMER results into multi-party distributed agile development approaches. They also help evaluate the feasibility and potential benefits of the contributions based on a concrete case study​.
+
+WP5: Project Management and Dissemination: Volvo Cars supports project management activities and dissemination efforts, promoting project results and managing relations with related projects. They participate in bi-weekly project meetings and other coordination activities.​
 
 # Kognic
 
