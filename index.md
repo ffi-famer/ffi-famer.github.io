@@ -19,7 +19,7 @@ The project will run for three years and will be coordinated by the University o
 
 <figure>
 <center>
-<img src="{{site.url}}/img/Workpackage structure in relation to FAMER ambition..png" height=200>
+<img src="{/img/Workpackage structure in relation to FAMER ambition..png" height=200>
 </center>
 </figure>
 
