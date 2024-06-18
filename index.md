@@ -17,11 +17,15 @@ The project will run for three years and will be coordinated by the University o
 - Demonstrate integration with multi-party agile work.
 
 
-<figure>
-<center>
-<img src="{{site.url}}/img/FAMER.jpg" height=200>
-</center>
-</figure>
+
+
+## Example Image
+
+![A beautiful scenery](img/FAMER.jpg)
+
+
+
+
 
 
 
