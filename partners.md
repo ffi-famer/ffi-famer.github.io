@@ -29,7 +29,7 @@ Zenseact plays a significant role in the FAMER project, contributing to multiple
 
 **Work Package Leadership**  
 
-WP4: Multi-Party Requirements Cognition: Zenseact leads this work package, defining how FAMER contributions can positively impact the automotive value chain and enable the distributed building of requirements knowledge across multiple partners in typical automotive-scaled agile systems development. They are responsible for integrating FAMER results into agile automotive systems development and evaluating feasibility and benefits based on a concrete case study .
+WP4: Multi-Party Requirements Cognition: Zenseact leads this work package, defining how FAMER contributions can positively impact the automotive value chain and enable the distributed building of requirements knowledge across multiple partners in typical automotive-scaled agile systems development. They are responsible for integrating FAMER results into agile automotive systems development and evaluating feasibility and benefits based on a concrete case study.
 
 **Participation in Other Work Packages** 
 
