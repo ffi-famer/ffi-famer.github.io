@@ -1,9 +1,11 @@
-
-
-
-![Work package structure of the FAMER ](img/famer-ffi-logo.jpg" height=200)
-
 * * *
+<figure>
+<center>
+<img src="/img/famer-ffi-logo.jpg" height="200" width="900">
+</center>
+</figure>
+
+
 
 
 # The FFI Famer Project Test Page
