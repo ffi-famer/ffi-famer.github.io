@@ -2,7 +2,7 @@
 
 The completed FAMER publications show a clear and connected progression of results. Together, they demonstrate how requirements engineering can better support the development of safe AI-based automotive perception systems, especially in multi-party industrial settings. Details about these publications are available on the [FAMER Publications page](https://ffi-famer.github.io/famer_publications.html).
 
-The first set of results focuses on understanding the problem space. The study on **requirements representations in machine learning-based automotive perception systems** highlights the need for better ways to represent, communicate, and connect requirements across multiple stakeholders. It shows that perception-system development depends on several interrelated requirement representations distributed across organizations, tools, and lifecycle stages.
+The first set of results focuses on understanding the problem space. The study ([Saeeda et al., 2025](https://drive.google.com/file/d/1mT6g-ByFZ2u23Tzg1BwtZ81-wXtF2fEk/view)) on **requirements representations in machine learning-based automotive perception systems** .highlights the need for better ways to represent, communicate, and connect requirements across multiple stakeholders. It shows that perception-system development depends on several interrelated requirement representations distributed across organizations, tools, and lifecycle stages.
 
 A second stream of results establishes **data annotation as a requirements engineering concern** rather than only a data-processing activity. This work shows that annotation decisions directly affect whether system-level goals, safety expectations, and quality requirements can be fulfilled in machine learning systems.
 
