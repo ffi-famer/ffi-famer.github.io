@@ -7,7 +7,7 @@
 
 # The FFI FAMER Project
 
-FAMER – *Facilitating Multi-Party Engineering of Requirements* – is a three-year Vinnova FFI-funded project that started on **September 1, 2023**. The project develops concepts, models, and techniques for building and managing requirements knowledge for **safe AI-based automotive perception systems** in a **multi-party systems-of-systems context**.
+FAMER – *Facilitating Multi-Party Engineering of Requirements*  is a three-year Vinnova FFI-funded project that started on **September 1, 2023**. The project develops concepts, models, and techniques for building and managing requirements knowledge for **safe AI-based automotive perception systems** in a **multi-party systems-of-systems context**.
 
 Safe perception-system development requires collaboration across multiple organisations, disciplines, tools, and lifecycle stages. FAMER addresses this challenge by improving how requirements are represented, aligned, validated, and shared across the automotive value chain in iterative and collaborative development settings.
 
