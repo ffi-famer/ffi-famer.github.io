@@ -1,5 +1,38 @@
-# This contains a list of publications from the precog project which preceeded Famer
 
-1. Habibullah, Khan Mohammad, et al. "Requirements engineering for automotive perception systems: An interview study." International Working Conference on Requirements Engineering: Foundation for Software Quality. Cham: Springer Nature Switzerland, 2023. [Publication](https://link.springer.com/chapter/10.1007/978-3-031-29786-1_13) [Pre-Print](https://arxiv.org/pdf/2302.12155)
-2. Heyn, Hans-Martin, et al. "Automotive perception software development: An empirical investigation into data, annotation, and ecosystem challenges." 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN). IEEE, 2023. [Publication](https://ieeexplore.ieee.org/iel7/10164724/10164725/10164771.pdf) [Pre-Print](https://arxiv.org/abs/2303.05947)
-3. Heyn, Hans-Martin, et al. "An empirical investigation of challenges of specifying training data and runtime monitors for critical software with machine learning and their relation to architectural decisions." Requirements Engineering 29.1 (2024): 97-117. [Publication](https://link.springer.com/article/10.1007/s00766-024-00415-4)
+## Emerging Results from FAMER
+
+The completed FAMER publications show a clear and connected progression of results. Together, they demonstrate how requirements engineering can better support the development of safe AI-based automotive perception systems, especially in multi-party industrial settings.
+
+The first set of results focuses on understanding the problem space. The study on **requirements representations in machine learning-based automotive perception systems** highlights the need for better ways to represent, communicate, and connect requirements across multiple stakeholders. It shows that perception-system development depends on several interrelated requirement representations distributed across organizations, tools, and lifecycle stages.
+
+A second stream of results establishes **data annotation as a requirements engineering concern** rather than only a data-processing activity. This work shows that annotation decisions directly affect whether system-level goals, safety expectations, and quality requirements can be fulfilled in machine learning systems.
+
+Building on this, the research on **managing data annotation requirements in practice** identifies how annotation requirements emerge, evolve, and are coordinated in industrial autonomous-driving contexts. These findings make visible the practical challenges of defining, negotiating, and maintaining annotation requirements in real development settings.
+
+Another important result concerns **data annotation quality problems**. This work identifies recurring quality issues and shows how problems in annotation practices can propagate into downstream perception-system development, validation, and trustworthiness concerns.
+
+Finally, the work on **Data Annotation Requirements Representation and Specification (DARS)** moves from problem understanding to solution design. It provides a more structured way to represent and specify annotation requirements, helping connect system goals, annotation decisions, and validation needs in a traceable and reusable manner.
+
+## What These Results Mean for Industrial Partners
+
+For the industrial partners, these results provide both understanding and practical value.
+
+**Volvo Cars** benefits from a stronger shared language and clearer ways to connect high-level system concerns with perception-related requirements. The results support more structured requirements communication across complex development settings.
+
+**Zenseact** benefits from methods and insights that improve multi-party coordination, requirement alignment, and iterative development of AI-based perception systems. The results are especially relevant for distributed agile environments where many actors contribute to the same system.
+
+**Kognic** benefits from a clearer foundation for defining, refining, and validating annotation requirements. The results support better guidance for clients, more reliable ground-truth production, and improved annotation-tool and workflow design.
+
+**RISE** benefits from results that strengthen safety assurance, requirement traceability, and industrial best practices for safe perception systems. These outcomes can also be transferred into research, innovation support, and competence-building activities.
+
+**University of Gothenburg** benefits by translating these industrially grounded findings into scientific publications, teaching, and future research on requirements engineering for AI-based and safety-critical systems.
+
+## Overall FAMER Contribution So Far
+
+Overall, the completed papers show that FAMER is producing a coherent body of results that moves from:
+1. Understanding requirements and collaboration challenges,
+2. Identifying annotation-related requirements and quality problems,
+3. and developing structured solutions for representing and specifying these requirements.
+
+This means the results are not isolated contributions, but emerging pieces of a broader framework for improving requirements engineering, annotation quality, traceability, and collaboration in safe AI-based perception-system development.
+
