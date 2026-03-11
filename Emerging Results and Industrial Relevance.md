@@ -10,7 +10,7 @@ Building on this, the research  [S3](https://arxiv.org/abs/2511.15859) on **mana
 
 Another important result  [S4](https://arxiv.org/abs/2511.16410) concerns **data annotation quality problems**. This work identifies recurring quality issues and shows how problems in annotation practices can propagate into downstream perception-system development, validation, and trustworthiness concerns.
 
-Finally, the work on **Data Annotation Requirements Representation and Specification (DARS)** moves from problem understanding to solution design. It provides a more structured way to represent and specify annotation requirements, helping connect system goals, annotation decisions, and validation needs in a traceable and reusable manner.
+Finally, the study  [S5](https://arxiv.org/abs/2512.13444) on **Data Annotation Requirements Representation and Specification (DARS)** moves from problem understanding to solution design. It provides a more structured way to represent and specify annotation requirements, helping connect system goals, annotation decisions, and validation needs in a traceable and reusable manner.
 
 ## What These Results Mean for Industrial Partners
 
