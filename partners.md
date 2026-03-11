@@ -1,26 +1,26 @@
 ## ![GU logo ](img/GUlogo.png)
 
-The University of Gothenburg (UGOT) plays a key role in FAMER by coordinating the project and contributing across several work packages, with a strong focus on requirements engineering for safe AI-based perception systems.
+The University of Gothenburg (GU) plays a key role in FAMER by coordinating the project and contributing across several work packages, with a strong focus on requirements engineering for safe AI-based perception systems.
 
 **Project Coordination:**  
-UGOT coordinates the overall project, supports collaboration among partners, manages project activities, organizes regular meetings, and contributes to dissemination and communication.
+GU coordinates the overall project, supports collaboration among partners, manages project activities, organizes regular meetings, and contributes to dissemination and communication.
 
 **Work Package Leadership**
 
-WP2: Requirements Representation: UGOT leads this work package, focusing on methods and representations for capturing, structuring, and tracing requirements for safe perception systems, including functional, non-functional, and safety-related requirements.
+WP2: Requirements Representation: GU leads this work package, focusing on methods and representations for capturing, structuring, and tracing requirements for safe perception systems, including functional, non-functional, and safety-related requirements.
 
-WP5: Project Management and Dissemination: UGOT leads project management and dissemination activities, ensuring coordination, communication of results, and collaboration with related initiatives.
+WP5: Project Management and Dissemination: GU leads project management and dissemination activities, ensuring coordination, communication of results, and collaboration with related initiatives.
 
 **Participation in Other Work Packages**
 
-WP1: Shared Language: UGOT contributes to establishing a shared language and reference information model for safe perception systems.
+WP1: Shared Language: GU  contributes to establishing a shared language and reference information model for safe perception systems.
 
-WP3: Annotation Requirements Verification and Validation: UGOT supports the definition, verification, and validation of annotation requirements to ensure alignment with system-level goals.
+WP3: Annotation Requirements Verification and Validation: GU supports the definition, verification, and validation of annotation requirements to ensure alignment with system-level goals.
 
-WP4: Multi-Party Requirements Cognition: UGOT contributes to training materials and focus group research to support the integration of FAMER results into distributed agile development.
+WP4: Multi-Party Requirements Cognition: GU  contributes to training materials and focus group research to support the integration of FAMER results into distributed agile development.
 
 **Utilisation of the FAMER Scope**  
-UGOT will use FAMER results to advance research on requirements engineering and architecture for large-scale, safety-critical AI systems. The outcomes will support scientific publications, strengthen teaching in areas such as Advanced Requirements Engineering and AI Engineering, and create synergies with ongoing research in Software Center and RE for AI-based systems.
+GU will use FAMER results to advance research on requirements engineering and architecture for large-scale, safety-critical AI systems. The outcomes will support scientific publications, strengthen teaching in areas such as Advanced Requirements Engineering and AI Engineering, and create synergies with ongoing research in Software Center and RE for AI-based systems.
 
 
 # ![ logo ](img/zenseactlogo.png)
@@ -67,7 +67,7 @@ WP5: Project Management and Dissemination: Volvo Cars contributes to project coo
 Volvo Cars will benefit from FAMER through improved shared understanding, stronger requirement traceability, and better support for safe perception-system development. The project’s results are expected to contribute to more effective integration of requirements practices in safety-critical automotive product development.
 
 
-# Kognic
+#  ![Kognic ](Kogniclogo.jpg)
 
 Kognic contributes to FAMER with expertise in annotation processes, annotated data, and validation in safety-critical perception system development.
 
@@ -89,7 +89,7 @@ WP5: Project Management and Dissemination: Kognic supports dissemination, collab
 Kognic will use the knowledge and results from FAMER to better guide clients in defining requirements for validation data and ground truth production. The project outcomes will also support improved understanding of requirements for annotation and data tools, enabling more reliable annotations and better iterative collaboration across the ecosystem.
 
 
-# RISE
+#  ![RISE](Rise.png)
 
 RISE contributes to the FAMER project through research expertise, industrial collaboration, and support for methods related to safe and trustworthy perception systems.
 
