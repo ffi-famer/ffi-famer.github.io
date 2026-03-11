@@ -67,7 +67,7 @@ WP5: Project Management and Dissemination: Volvo Cars contributes to project coo
 Volvo Cars will benefit from FAMER through improved shared understanding, stronger requirement traceability, and better support for safe perception-system development. The project’s results are expected to contribute to more effective integration of requirements practices in safety-critical automotive product development.
 
 
-#  ![Kognic](Kogniclogo.jpg)
+#  ![Kognic](img/Kogniclogo.jpg)
 
 Kognic contributes to FAMER with expertise in annotation processes, annotated data, and validation in safety-critical perception system development.
 
