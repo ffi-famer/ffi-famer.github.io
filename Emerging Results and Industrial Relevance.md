@@ -28,7 +28,7 @@ For the industrial partners, these results provide both understanding and practi
 
 ## Overall FAMER Contribution So Far
 
-Overall, the completed papers shown on [FAMER Publications page](https://ffi-famer.github.io/famer_publications.html) show that FAMER is producing a coherent body of results that moves from:
+Overall, the completed papers (see [FAMER Publications page](https://ffi-famer.github.io/famer_publications.html)) show that FAMER is producing a coherent body of results that moves from:
 1. Understanding requirements and collaboration challenges,
 2. Identifying annotation-related requirements and quality problems,
 3. and developing structured solutions for representing and specifying these requirements.
