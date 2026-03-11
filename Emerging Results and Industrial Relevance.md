@@ -2,7 +2,7 @@
 
 The completed FAMER publications show a clear and connected progression of results. Together, they demonstrate how requirements engineering can better support the development of safe AI-based automotive perception systems, especially in multi-party industrial settings. Details about these publications are available on the [FAMER Publications page](https://ffi-famer.github.io/famer_publications.html).
 
-The first set of results focuses on understanding the problem space. The study [S1](https://drive.google.com/file/d/1mT6g-ByFZ2u23Tzg1BwtZ81-wXtF2fEk/view) on **requirements representations in machine learning-based automotive perception systems** highlights the need for better ways to represent, communicate, and connect requirements across multiple stakeholders. It shows that perception-system development depends on several interrelated requirement representations distributed across organizations, tools, and lifecycle stages.
+The first set of results focuses on understanding the problem space. The study [S1](https://drive.google.com/file/d/1mT6g-ByFZ2u23Tzg1BwtZ81-wXtF2fEk/view) on **requirements representations in machine learning-based automotive perception systems** highlights the need for better ways to represent, communicate, and connect requirements across multiple stakeholders. It shows that perception-system development depends on several interrelated requirement representations distributed across organisations, tools, and lifecycle stages.
 
 A second stream of results [S2](https://arxiv.org/abs/2512.13444) establishes **data annotation as a requirements engineering concern** rather than only a data-processing activity. This work shows that annotation decisions directly affect whether system-level goals, safety expectations, and quality requirements can be fulfilled in machine learning systems.
 
@@ -28,7 +28,7 @@ For the industrial partners, these results provide both understanding and practi
 
 ## Overall FAMER Contribution So Far
 
-Overall, the completed papers [FAMER Publications page](https://ffi-famer.github.io/famer_publications.html) show that FAMER is producing a coherent body of results that moves from:
+Overall, the completed papers shown on [FAMER Publications page](https://ffi-famer.github.io/famer_publications.html) show that FAMER is producing a coherent body of results that moves from:
 1. Understanding requirements and collaboration challenges,
 2. Identifying annotation-related requirements and quality problems,
 3. and developing structured solutions for representing and specifying these requirements.
