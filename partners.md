@@ -58,7 +58,7 @@ WP4: Multi-Party Requirements Cognition: Volvo Cars supports focus group researc
 WP5: Project Management and Dissemination: Volvo Cars contributes to project coordination, dissemination, and collaboration activities.
 
 
-# Kognic ![ Kognic ](img/Kogniclog.jpg)
+# ![ Kognic ](img/Kogniclogo.jpg)
 
 Kognic contributes to FAMER with expertise in annotation processes, annotated data, and validation in safety-critical perception system development.
 
