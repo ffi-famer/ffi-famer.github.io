@@ -89,7 +89,7 @@ WP5: Project Management and Dissemination: Kognic supports dissemination, collab
 Kognic will use the knowledge and results from FAMER to better guide clients in defining requirements for validation data and ground truth production. The project outcomes will also support improved understanding of requirements for annotation and data tools, enabling more reliable annotations and better iterative collaboration across the ecosystem.
 
 
-#  ![RISE](Rise.png)
+#  ![RISE](img/Rise.png)
 
 RISE contributes to the FAMER project through research expertise, industrial collaboration, and support for methods related to safe and trustworthy perception systems.
 
