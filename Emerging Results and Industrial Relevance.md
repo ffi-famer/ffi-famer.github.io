@@ -8,7 +8,7 @@ A second stream of results [S2](https://arxiv.org/abs/2512.13444) establishes **
 
 Building on this, the research  [S3](https://arxiv.org/abs/2511.15859) on **managing data annotation requirements in practice** identifies how annotation requirements emerge, evolve, and are coordinated in industrial autonomous-driving contexts. These findings make visible the practical challenges of defining, negotiating, and maintaining annotation requirements in real development settings.
 
-Another important result concerns **data annotation quality problems**. This work identifies recurring quality issues and shows how problems in annotation practices can propagate into downstream perception-system development, validation, and trustworthiness concerns.
+Another important result  [S4](https://arxiv.org/abs/2511.16410) concerns **data annotation quality problems**. This work identifies recurring quality issues and shows how problems in annotation practices can propagate into downstream perception-system development, validation, and trustworthiness concerns.
 
 Finally, the work on **Data Annotation Requirements Representation and Specification (DARS)** moves from problem understanding to solution design. It provides a more structured way to represent and specify annotation requirements, helping connect system goals, annotation decisions, and validation needs in a traceable and reusable manner.
 
