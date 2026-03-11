@@ -1,66 +1,97 @@
+## ![GU logo ](img/GUlogo.png)
 
+The University of Gothenburg (UGOT) plays a key role in the FAMER project by coordinating the project and contributing across several work packages.
 
+**Project Coordination:**  
+UGOT coordinates the overall project, supports collaboration among partners, manages project activities, organizes bi-weekly meetings, and contributes to dissemination and communication.
 
-##   ![GU logo ](img/GUlogo.png)
+**Work Package Leadership**
 
-The University of Gothenburg  (UGOT) plays a central role in the FAMER project, coordinating the overall efforts and contributing significantly to multiple work packages. Specifically, the University of Gothenburg's involvement includes:
+WP2: Requirements Representation: UGOT leads this work package, focusing on methods and representations for capturing, structuring, and tracing requirements for safe perception systems, including support for functional, non-functional, and ISO 26262-related requirements.
 
-**Project Coordination:** UGOT coordinates the project, ensuring the effective collaboration of all partners and overseeing project management activities. This includes organizing bi-weekly project meetings, managing a collaboration platform, and coordinating dissemination activities.
-
-**Work Package Leadership** 
-
-WP2: Requirements Representation: UGOT leads this work package, focusing on developing effective representations and strategies for capturing requirements for safe perception systems. This includes structuring and inter-relating requirements, specifying both functional and non-functional requirements, and ensuring traceability of requirements to fulfil ISO 26262.
-
-WP5: Project Management and Dissemination: UGOT leads this work package, ensuring proper project coordination, dissemination of results through national and international networks, and management of relations with related projects.
+WP5: Project Management and Dissemination: UGOT leads project management and dissemination activities, ensuring coordination, communication of results, and collaboration with related initiatives.
 
 **Participation in Other Work Packages**
 
- WP1: Shared Language: UGOT participates by helping to establish a shared language and reference information model for safe perception systems, contributing their expertise in requirements engineering and agile systems development.
+WP1: Shared Language: UGOT contributes to establishing a shared language and reference information model for safe perception systems.
 
-WP3: Annotation Requirements Verification and Validation: UGOT contributes to defining annotation needs and constraints, as well as verifying and validating annotated data to ensure it meets system-level goals.
+WP3: Annotation Requirements Verification and Validation: UGOT supports the definition, verification, and validation of annotation requirements to ensure alignment with system-level goals.
 
-WP4: Multi-Party Requirements Cognition: UGOT contributes by compiling FAMER results into training materials and facilitating focus group research to integrate FAMER contributions into multi-party distributed agile development approaches.
+WP4: Multi-Party Requirements Cognition: UGOT contributes to training materials and focus group research to support the integration of FAMER results into distributed agile development.
 
 
+# ![ logo ](img/zenseactlogo.png)
 
-#  ![ logo ](img/zenseactlogo.png)
+Zenseact plays an important role in FAMER by supporting collaborative requirements engineering across the automotive value chain and contributing to several work packages.
 
-Zenseact plays a significant role in the FAMER project, contributing to multiple work packages with a focus on integrating collaborative requirements engineering across the automotive value chain. Their involvement includes:
+**Work Package Leadership**
 
-**Work Package Leadership**  
+WP4: Multi-Party Requirements Cognition: Zenseact leads this work package, focusing on how FAMER results can support distributed requirements knowledge and multi-party collaboration in agile automotive development.
 
-WP4: Multi-Party Requirements Cognition: Zenseact leads this work package, defining how FAMER contributions can positively impact the automotive value chain and enable the distributed building of requirements knowledge across multiple partners in typical automotive-scaled agile systems development. They are responsible for integrating FAMER results into agile automotive systems development and evaluating feasibility and benefits based on a concrete case study.
+**Participation in Other Work Packages**
 
-**Participation in Other Work Packages** 
+WP1: Shared Language: Zenseact contributes to reviewing standards, defining the reference information model, and supporting the architecture description for perception systems.
 
-WP1: Shared Language: Zenseact collaborates with other partners to review standards and reference frameworks, define a reference information model, and develop a reference system architecture description for perception systems.
+WP2: Requirements Representation: Zenseact supports the development of requirements representations, methods, and traceability models across the lifecycle.
 
-WP2: Requirements Representation: Zenseact works alongside other partners to extend shared understanding from WP1, define requirements representations and methods, and develop a traceability information model that connects various representations.
+WP3: Annotation Requirements Verification and Validation: Together with Kognic, Zenseact contributes to defining annotation needs, producing annotated data, and validating whether the data satisfies system-level and safety-related goals.
 
-WP3: Annotation Requirements Verification and Validation: Zenseact, together with Kognic, leads tasks related to defining annotation needs and constraints, creating annotated data, and validating whether this data meets system-level goals. They focus on ensuring that annotated data contributes to fulfilling safety and other high-level requirements.
-
-WP5: Project Management and Dissemination: Zenseact supports project management activities and dissemination efforts, promoting project results and managing relations with related projects. They participate in bi-weekly project meetings and other coordination activities.
-
+WP5: Project Management and Dissemination: Zenseact supports coordination, dissemination, and collaboration through active participation in meetings and project activities.
 
 
 # ![ Volvo Cars ](img/volvo.png)
 
-Volvo Cars plays a critical role in the FAMER project, contributing to and leading various work packages. Here is an overview of their involvement:
+Volvo Cars has a central role in FAMER, contributing to multiple work packages and leading the effort to establish a shared foundation for the project.
 
 **Work Package Leadership**
 
-WP1: Shared Language: Volvo Cars leads this work package, establishing a shared language and foundation for the project. This includes compiling a domain description, defining a reference information model, and creating a reference system architecture description for perception systems​.
+WP1: Shared Language: Volvo Cars leads this work package, focusing on building a shared language, domain description, reference information model, and architecture description for perception systems.
 
 **Participation in Other Work Packages**
 
-WP2: Requirements Representation: Volvo Cars collaborates with other partners to develop requirements representations, define methods for specifying both functional and non-functional requirements, and establish a traceability information model that connects various requirements across the development lifecycle​.
+WP2: Requirements Representation: Volvo Cars contributes to defining requirements representations, specification methods, and traceability across the development process.
 
-WP3: Annotation Requirements Verification and Validation: Volvo Cars works with Kognic and Zenseact to define annotation needs, create annotated data, and validate whether the annotated data meets system-level goals. This ensures that annotations contribute to fulfilling safety and other high-level requirements​.
+WP3: Annotation Requirements Verification and Validation: Volvo Cars works with Kognic and Zenseact to define annotation needs and validate annotated data against system-level goals.
 
-WP4: Multi-Party Requirements Cognition: Volvo Cars supports Zenseact in this work package by conducting focus group research and integrating FAMER results into multi-party distributed agile development approaches. They also help evaluate the feasibility and potential benefits of the contributions based on a concrete case study​.
+WP4: Multi-Party Requirements Cognition: Volvo Cars supports focus group research and the integration of FAMER results into distributed agile automotive development.
 
-WP5: Project Management and Dissemination: Volvo Cars supports project management activities and dissemination efforts, promoting project results and managing relations with related projects. They participate in bi-weekly project meetings and other coordination activities.​
+WP5: Project Management and Dissemination: Volvo Cars contributes to project coordination, dissemination, and collaboration activities.
+
 
 # Kognic
 
-# RI.SE
+Kognic contributes to FAMER with expertise in annotation processes, annotated data, and validation in safety-critical perception system development.
+
+**Work Package Leadership / Key Contribution**
+
+WP3: Annotation Requirements Verification and Validation: Kognic plays a central role in this work package by contributing expertise in annotation needs, constraints, data generation, and validation to ensure that annotated data supports system-level and safety-related requirements.
+
+**Participation in Other Work Packages**
+
+WP1: Shared Language: Kognic contributes to the shared understanding of perception systems and annotation-related concepts.
+
+WP2: Requirements Representation: Kognic supports the representation of annotation-related requirements and their traceability.
+
+WP4: Multi-Party Requirements Cognition: Kognic contributes practical insights into collaboration across multiple stakeholders in the automotive value chain.
+
+WP5: Project Management and Dissemination: Kognic supports dissemination, collaboration, and project coordination activities.
+
+
+# RISE
+
+RISE contributes to the FAMER project through research expertise, industrial collaboration, and support for methods related to safe and trustworthy perception systems.
+
+**Participation in Work Packages**
+
+WP1: Shared Language: RISE supports the development of common concepts, models, and architectural understanding for safe perception systems.
+
+WP2: Requirements Representation: RISE contributes to methods for representing, structuring, and tracing requirements.
+
+WP3: Annotation Requirements Verification and Validation: RISE supports activities related to defining and validating annotation requirements and quality.
+
+WP4: Multi-Party Requirements Cognition: RISE contributes to knowledge sharing, training, and collaboration approaches for multi-party development.
+
+WP5: Project Management and Dissemination: RISE supports dissemination, coordination, and engagement with relevant stakeholders and related initiatives.
+```
+
+I can also make this even more concise for direct website insertion.
