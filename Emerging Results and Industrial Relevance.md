@@ -6,7 +6,7 @@ The first set of results focuses on understanding the problem space. The study (
 
 A second stream of results ([S2](https://arxiv.org/abs/2512.13444)) establishes **data annotation as a requirements engineering concern** rather than only a data-processing activity. This work shows that annotation decisions directly affect whether system-level goals, safety expectations, and quality requirements can be fulfilled in machine learning systems.
 
-Building on this, the research  ([S3](https://arxiv.org/abs/2511.15859) on **managing data annotation requirements in practice** identifies how annotation requirements emerge, evolve, and are coordinated in industrial autonomous-driving contexts. These findings make visible the practical challenges of defining, negotiating, and maintaining annotation requirements in real development settings.
+Building on this, the research  [S3](https://arxiv.org/abs/2511.15859) on **managing data annotation requirements in practice** identifies how annotation requirements emerge, evolve, and are coordinated in industrial autonomous-driving contexts. These findings make visible the practical challenges of defining, negotiating, and maintaining annotation requirements in real development settings.
 
 Another important result concerns **data annotation quality problems**. This work identifies recurring quality issues and shows how problems in annotation practices can propagate into downstream perception-system development, validation, and trustworthiness concerns.
 
