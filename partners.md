@@ -77,7 +77,7 @@ WP4: Multi-Party Requirements Cognition: Kognic contributes practical insights i
 WP5: Project Management and Dissemination: Kognic supports dissemination, collaboration, and project coordination activities.
 
 
-# RISE
+# ![ RISE ](img/Rise.png)
 
 RISE contributes to the FAMER project through research expertise, industrial collaboration, and support for methods related to safe and trustworthy perception systems.
 
