@@ -20,7 +20,7 @@ WP3: Annotation Requirements Verification and Validation: UGOT supports the defi
 WP4: Multi-Party Requirements Cognition: UGOT contributes to training materials and focus group research to support the integration of FAMER results into distributed agile development.
 
 
-# ![ logo ](img/zenseactlogo.png)
+# ![ zenseact logo ](img/zenseactlogo.png)
 
 Zenseact plays an important role in FAMER by supporting collaborative requirements engineering across the automotive value chain and contributing to several work packages.
 
