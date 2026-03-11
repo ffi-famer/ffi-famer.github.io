@@ -92,6 +92,5 @@ WP3: Annotation Requirements Verification and Validation: RISE supports activiti
 WP4: Multi-Party Requirements Cognition: RISE contributes to knowledge sharing, training, and collaboration approaches for multi-party development.
 
 WP5: Project Management and Dissemination: RISE supports dissemination, coordination, and engagement with relevant stakeholders and related initiatives.
-```
 
-I can also make this even more concise for direct website insertion.
+
